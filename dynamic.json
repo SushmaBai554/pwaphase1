@@ -1,0 +1,41 @@
+{
+  "basics":{
+  "img":"download.png",
+  "name":"Sushma",
+  "email":"sushma@gmail.com"
+},
+"carrer":{
+  "info":"i want to seek a position where i can explain my knowledge"
+},
+"education":[
+  {
+    "sno":"1",
+    "degree":"B.Tech",
+    "Institute":"MITS",
+    "peryear":"2019"
+  },
+  {
+      "sno":"2",
+      "degree":"inter",
+      "Institute":"BDC",
+      "peryear":"2017"
+    },
+    {
+        "sno":"3",
+        "degree":"SSC",
+        "Institute":"BYV",
+        "peryear":"2015"
+      }
+],
+"skills":[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"Java"
+  }
+]
+}

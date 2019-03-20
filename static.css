@@ -1,0 +1,33 @@
+body{
+  background:#F71F81 ;
+}
+.parent1{
+  background:#D778FA;
+  display: flex;
+  padding:2%;
+  margin:2%;
+  /* justify-content: space-around; */
+  border-radius: 5%;
+  }
+  .child1{
+    width:25%;
+    text-align: center;
+    background:#DDFA71   ;
+    padding:2%;
+    margin:2%;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px black;
+  }
+  .child2{
+    width:65%;
+    /* text-align: center; */
+    background: #DDFA71  ;
+    padding:2%;
+    margin:2%;
+    border-radius: 10%;
+      box-shadow: 5px 5px 5px black;
+      text-align: center;
+  }
+  table{
+    border: 1px solid red
+  }
